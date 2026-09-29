@@ -21,6 +21,11 @@ performance, risk (DPD/NPA), collections, and cohort-level default trends.
 
 
 
+### Screenshots:
+![Executive Overview](ExecutiveSummary.png)
+![Portfolio Analysis](RiskAndPortfolio.png)
+
+
 ### Tools Used:
 Power BI Desktop, DAX, Power Query, Data Modeling
 
